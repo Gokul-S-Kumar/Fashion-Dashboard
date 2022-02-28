@@ -1,7 +1,7 @@
 Fashion_Dashboard
 ==============================
 
-Code of a Dashboard developed for a Fashion Recommendation project at IIDS, ISB.
+Code of Dashboard developed for a Fashion Recommendation project at IIDS, ISB.
 
 Project Organization
 ------------
